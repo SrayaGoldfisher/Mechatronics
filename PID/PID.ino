@@ -1,3 +1,6 @@
+//Used microcontroller to control the movement of a mechanical axis
+
+
 const int Pin1 =  2;
 const int Pin2 =  3;
 float e_pres = 0, e_prev, Kp, Ki, Kd, teta_d, teta, t0, U, P, I, D;
