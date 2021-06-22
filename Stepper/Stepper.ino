@@ -1,3 +1,9 @@
+//Digital control of stepper motor
+//Familiarity with different ways of operating a stepper motor
+//Control of motion parameters of stepper motor
+//UART Communication
+
+
 short FullSteps[4] = {B00000001,
                       B00000010,
                       B00000100,
