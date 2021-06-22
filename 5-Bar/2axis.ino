@@ -1,3 +1,7 @@
+//Activation of a 5-Bar robotic system with 2 degrees of freedom
+//The system is driven by connection of 2 PID systems controlled by microcontroller
+
+
 const int CHA1 =  2;
 const int CHB1 =  7;
 const int CHA2 =  3;
