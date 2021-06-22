@@ -1,3 +1,7 @@
+//Analog signal sampling
+//Execution of FFT by the digital controller
+
+
 int n, N, k, f;
 int x[100];
 unsigned long dt, t0 = 0; 
